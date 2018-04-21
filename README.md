@@ -34,7 +34,7 @@ In the first step, all necessary folders needs to be created:
 
 ```bash
 mkdir -p t2t_data t2t_datagen t2t_train t2t_output
-``
+```
 
 ## Data generation
 
